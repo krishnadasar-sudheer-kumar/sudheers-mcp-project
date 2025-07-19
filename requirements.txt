@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+snowflake-connector-python
+simple-salesforce
+databricks-sql-connector
+requests
+matplotlib
